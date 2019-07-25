@@ -1,0 +1,5 @@
+shell.run("rm /simpOS")
+shell.run("rm /startup")
+print("Done, Rebooting...")
+sleep(1)
+os.reboot()

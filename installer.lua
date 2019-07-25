@@ -1,0 +1,5 @@
+shell.run("cp /disk/simpOS/ /simpOS")
+shell.run("cp /disk/startup1.lua /startup")
+print("Download Finished, restarting in a second...")
+sleep(1)
+os.reboot()

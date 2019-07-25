@@ -1,0 +1,6 @@
+term.clear()
+term.setCursorPos(1,1)
+print("simpOS-dev-0.0.1")
+print("Customized Version of CraftOS 1.8")
+shell.run("./simpOS/tweakSettings/tweakSet.lua")
+shell.run("./simpOS/startup.lua")

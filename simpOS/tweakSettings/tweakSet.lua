@@ -1,0 +1,5 @@
+shell.setAlias( "ld", "/simpOS/ld.lua" )
+shell.setAlias( "dir", "list" )
+shell.setAlias( "ls", "list" )
+shell.setAlias( "add", "/simpOS/add.lua" )
+shell.setAlias( "subtract", "/simpOS/subtract.lua" )
